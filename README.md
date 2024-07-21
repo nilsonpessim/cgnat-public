@@ -1,8 +1,8 @@
-## :rocket: Gestor de CGNAT para RouterOS
-:star_struck: Repositório de Instalação e Configuração do Gestor de CGNAT.
+## :rocket: ISP Manager
+:star_struck: Repositório de Instalação e Configuração do ISP Manager
  
 ## :computer: Requisitos do Sistema
-Requisitos para execução do CGNAT.
+Requisitos para execução do ISP Manager.
  
 * :cd: Ubuntu 22.04 Server (ISO ou CT).
 * :heavy_check_mark: Processador: 2 vCPU.
